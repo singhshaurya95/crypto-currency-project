@@ -1,4 +1,3 @@
-BITCOIN_SMA_CROSSOVER_ANALYZER
 Bitcoin SMA Crossover Strategy Analyzer
 A lightweight Python tool that analyzes and backtests a simple moving average (SMA) crossover trading strategy for Bitcoin. This analyzer processes real market data and visualizes both trading signals and performance metrics.
 Features:
