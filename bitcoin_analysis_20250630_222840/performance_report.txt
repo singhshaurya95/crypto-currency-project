@@ -1,0 +1,15 @@
+
+========= Strategy Performance Analysis ==========
+Evaluation Period: Jan 1, 2025 - 2025-06-30
+Starting Capital: $10,000.00
+
+Buy and Hold Final Value: $11,479.12
+Crossover Strategy Final Value: $11,368.87
+Strategy Outperformance: $-110.25
+
+Total Trades Executed: 6
+Buy Signals: 3
+Sell Signals: 3
+
+Strategy Return: 13.69%
+Buy/Hold Return: 14.79%
